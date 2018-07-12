@@ -625,6 +625,16 @@ chart6.data.datasets[1].data = a[3];
 chart6.data.labels = label;
 chart6.update();
 
+chart7.data.datasets[0].data = a[4];
+chart7.data.datasets[1].data = a[5];
+chart7.data.labels = label;
+chart7.update();
+
+chart8.data.datasets[0].data = a[6];
+chart8.data.labels = a[7];
+chart8.update();                                             
+                                             
+
       /////
  
    }
